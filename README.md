@@ -1,4 +1,3 @@
-# Digit-Recognition-Program
 # Project: Digit Recognition Program
 
 ## Install
